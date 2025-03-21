@@ -22,11 +22,11 @@ Perubahan yang dilakukan mencakup:
 
 ## **Tampilan Halaman**
 ### **Halaman Esai** - Grid Proyek 📑  
-<img src="./projects/personal website.jpeg" alt="Tampilan Halaman Proyek" width="700">
-<img src="./projects/e-learning.jpeg" alt="Tampilan Halaman Proyek" width="700">
-<img src="./projects/task management app.jpeg" alt="Tampilan Halaman Proyek" width="700">
+<img src="./public/projects/personal website.jpeg" alt="Tampilan Halaman Proyek" width="700">
+<img src="./public/projects/e-learning.jpeg" alt="Tampilan Halaman Proyek" width="700">
+<img src="./public/projects/task management app.jpeg" alt="Tampilan Halaman Proyek" width="700">
 
 
 
 ### **Halaman Tentang Saya** - Profil & Media Sosial 🧑‍💻  
-<img src="./profil.jpg" alt="Tampilan Halaman Tentang Saya" width="700">
+<img src="./public/profil.jpg" alt="Tampilan Halaman Tentang Saya" width="700">
